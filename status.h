@@ -1,12 +1,8 @@
-/*
- * Copyright (c) 2015 LIHAIBING. All Rights Reserved
- *
- * @file status.h
- * @author lihaibing(593255200@qq.com)
- * @date 2017/07/22 20:33:07
- * @brief
- *
-*/
+// Copyright (c) 2011 The LevelDB Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style license that can be
+// found in the LICENSE file. See the AUTHORS file for names of contributors.
+//
+
 #ifndef  _EAGLEFS_STATUS_H_
 #define  _EAGLEFS_STATUS_H_
 
@@ -87,6 +83,7 @@ private:
     int code_;
     const char* msg_;
 };
+
 
 inline Status::Status(const Status& s) {
     code_ = s.code_;
