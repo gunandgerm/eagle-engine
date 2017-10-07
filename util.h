@@ -1,12 +1,3 @@
-/*
- * Copyright (c) 2015 LIHAIBING. All Rights Reserved
- *
- * @file util.h
- * @author lihaibing(593255200@qq.com)
- * @date 2017/07/22 20:33:07
- * @brief
- *
-*/
 #ifndef  _EAGLEFS_UTIL_H_
 #define  _EAGLEFS_UTIL_H_
 

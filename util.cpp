@@ -1,12 +1,3 @@
-/*
- * Copyright (c) 2015 LIHAIBING. All Rights Reserved
- *
- * @file util.cpp
- * @author lihaibing(593255200@qq.com)
- * @date 2017/07/22 20:33:07
- * @brief
- *
-*/
 #include "eagleengine/util.h"
 
 namespace eagleengine {
